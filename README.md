@@ -7,7 +7,7 @@ Project link - https://www.theodinproject.com/courses/web-development-101/lesson
 This copy of the site is based on the Google homepage on 15th Feb 2019
 
 Here you can see my solutions:
-- [Google.com homepage](http://htmlpreview.github.io/?https://github.com/gaurav-karum/google-homepage/blob/master/index.html)
+- [Google homepage](http://gaurav-karum.github.io/gooogle_homepage)
 
 
 
